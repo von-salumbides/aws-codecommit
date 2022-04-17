@@ -1,0 +1,5 @@
+ecs:
+  - name: "main"
+    with_alb: false
+  - name: "internal"
+    with_alb: false
